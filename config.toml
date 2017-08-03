@@ -1,0 +1,94 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "zh"
+#DefaultContentLanguage = "ja"
+title = "随机数学"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "概率论，随机过程和数理统计"
+  logo = "img/avatar-icon.gif"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+[[Params.bigimg]]
+  src = "img/path.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "赵联文"
+  email = "lwnzhao@163.com"
+  #facebook = "username"
+  #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "username"
+  #gitlab = "username"
+  wechat = "56396405"
+  QQ = "56396405"
+  #twitter = "username"
+  #reddit = "username"
+  #linkedin = "username"
+  xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+
+[[menu.main]]
+    name = "日志"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "关于"
+    url = "page/about/"
+    weight = 3
+
+#[[menu.main]]
+#    identifier = "Samples"
+#    name = "科目"
+#    weight = 2
+
+[[menu.main]]
+    parent = "科目"
+    name = "概率论与数理统计B"
+    url = "post/2017-03-07-bigimg-sample"
+    weight = 1
+
+[[menu.main]]
+    parent = "科目"
+    name = "随机过程"
+    url = "post/2017-03-05-math-sample"
+    weight = 2
+
+[[menu.main]]
+    parent = "科目"
+    name = "数理统计"
+    url = "post/2016-03-08-code-sample"
+    weight = 3
+
+[[menu.main]]
+    name = "类别"
+    url = "tags"
+    weight = 3
+

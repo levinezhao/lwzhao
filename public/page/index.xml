@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 随机数学</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on 随机数学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>lwnzhao@163.com (赵联文)</managingEditor>
+    <webMaster>lwnzhao@163.com (赵联文)</webMaster>
+    
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lwnzhao@163.com (赵联文)</author>
+      <guid>/page/about/</guid>
+      <description>About mecode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() {hljs.initHighlighting();}, 0);}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.table th:not([align]) {text-align: left;}.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lwnzhao@163.com (赵联文)</author>
+      <guid>/page/about/</guid>
+      <description>赵联文 教授  
+ 西南交通大学数学学院统计系  
+1964年7月最初一天的早晨，出生于四川南江大巴山区的一个小山村，在最近的小学（现在已逝去）读完三年级，教室里有3个年级的学生，老师得安抚低年级的学生，训斥高年级的学生，最小的孩子5岁，最大的15岁。转到较大的一个小学，有4间教室外加一个祠堂中安顿2个班读完小学。在公社（乡）办的小学读完初中，后至区中学读完高中。1979年考入四川师范大学数学专业，1983年毕业分配到通江中学工作两年，教初中数学一年，高中数学一年。1985年考入西南交通大学应用数学系，1987年毕业后一直在西南交通大学工作。</description>
+    </item>
+    
+  </channel>
+</rss>
